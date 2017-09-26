@@ -1,0 +1,16 @@
+PODS:
+  - MXMainViewKit (1)
+
+DEPENDENCIES:
+  - MXMainViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  MXMainViewKit:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MXMainViewKit: dd96d7f62aa9715b7e99fe0b971b4e03336786e1
+
+PODFILE CHECKSUM: de60a1cce177f36e59e1f4fb2bf1c35f292cc527
+
+COCOAPODS: 1.3.1
