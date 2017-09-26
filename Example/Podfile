@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MXMainViewKit_Example' do
+  pod 'MXMainViewKit', :path => '../'
+
+  target 'MXMainViewKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
